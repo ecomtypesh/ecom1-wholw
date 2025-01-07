@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your inner sigma wolf
+      text: Unlock your inner sigma wolf
       color: text-dark
       type: TitleBlock
     subtitle: be the alpha you always dreamed to be
